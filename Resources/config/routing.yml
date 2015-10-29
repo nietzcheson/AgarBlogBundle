@@ -1,0 +1,3 @@
+agar_blog_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: AgarBlogBundle:Default:index }

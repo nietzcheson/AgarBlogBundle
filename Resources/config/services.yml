@@ -1,0 +1,4 @@
+services:
+#    agar_blog.example:
+#        class: ArtesanIO\AgarBlogBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
